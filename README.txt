@@ -40,4 +40,4 @@ This project is educational and for practice purposes only. Fine values are base
 ---
 
 ## Author
-Made with  by MURTADHAKINGL
+Made by MURTADHAKINGL
